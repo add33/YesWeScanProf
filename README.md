@@ -23,7 +23,8 @@ npm install
 ```
 
 ### Utilisation 
-Androide
+Android :  
+
 Ouvrire le projet dans android studio et Run APP (Attention ouvrire le dossier android)
 Ensuite :
 ```sh
