@@ -5,21 +5,31 @@
 
 
 ### Installation
-1 - Allez dans le dossier télécharger
+1 - Ouvrire votre invite de commande
+
+2 - Télécharger le projet
+```sh
+git clone https://github.com/add33/YesWeScanProf.git
+```
+
+3 - Allez dans le dossier télécharger
 ```sh
 cd yeswescan
 ```
 
-2 - Installez toutes les dépendances (nodes_modules)
+4 - Installez toutes les dépendances (nodes_modules)
 ```sh
 npm install
 ```
 
 ### Utilisation 
 Androide
+Ouvrire le projet dans android studio et Run APP (Attention ouvrire le dossier android)
+Ensuite :
 ```sh
 react-native run-android
 ```
+
 IOS
 ```sh
 react-native run-ios
